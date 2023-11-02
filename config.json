@@ -1,0 +1,8 @@
+{
+  "BASE_API": "https://proyecto-pi.000webhostapp.com/api",
+  "MOCKUP_API": {
+    "URL": "https://random-mockup-person.p.rapidapi.com/api/v1",
+    "KEY": "-",
+    "HOST": "random-mockup-person.p.rapidapi.com"
+  }
+}
