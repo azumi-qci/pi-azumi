@@ -1,5 +1,4 @@
-![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/azumi-qci/ProyectoAzumiPI/main.yml)
-[![CodeFactor](https://www.codefactor.io/repository/github/azumi-qci/proyectoazumipi/badge)](https://www.codefactor.io/repository/github/azumi-qci/proyectoazumipi)
+[![CodeFactor](https://www.codefactor.io/repository/github/azumi-qci/pi-azumi/badge)](https://www.codefactor.io/repository/github/azumi-qci/pi-azumi)
 
 # Proyecto - Programación para internet
 
